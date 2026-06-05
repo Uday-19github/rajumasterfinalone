@@ -49,8 +49,6 @@ public/images/large/
 *.ico
 
 # Allow specific project image assets to be tracked (override the global image ignores)
-!src/assets/*.jpg
-!src/assets/*.jpeg
-!src/assets/*.png
-!src/assets/*.gif
-!public/images/*
+!src/assets/**
+!public/images/
+!public/images/**
