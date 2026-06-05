@@ -50,5 +50,6 @@ public/images/large/
 
 # Allow specific project image assets to be tracked (override the global image ignores)
 !src/assets/**
+!public/logo.png
 !public/images/
 !public/images/**
