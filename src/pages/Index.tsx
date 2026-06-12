@@ -88,7 +88,7 @@ const Home = () => {
       <CmsSection
         sectionKey="hero"
         fallbackTitle="MOVE LIKE YOU MEAN IT."
-        fallbackBody="20 years. 100,000 students. 500+ stages. Rajumaster's Rise & Shine is Bengaluru's premier destination for dance, fitness, acting, and events. Step in. Sweat hard. Shine bright."
+        fallbackBody="20 years. 100,000 students. 500+ stages. Rajumaster's Rise & Shine is Hyderabad's premier destination for dance, fitness, acting, and events. Step in. Sweat hard. Shine bright."
         fallbackImage={heroDancer}
       >
         {({ title, body, image }) => (
